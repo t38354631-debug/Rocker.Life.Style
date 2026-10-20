@@ -62,6 +62,16 @@ Observação: confirmar se os tempos indicados representam horas de trabalho, du
 6. Acompanhamento das sprints
 Ao final de cada sprint, a equipe deverá:
 - Verificar quais tarefas foram concluídas.
+
+- Principais funcionalidades
+- Comunidade digital: feed para compartilhar publicações, fotos e experiências.
+- Customização de instrumentos: opções de personalização parcial, intermediária e avançada.
+- Moda exclusiva: roupas em pequenas coleções e possibilidade de customização.
+- Eventos e encontros: divulgação de shows, passeios e atividades da comunidade.
+- Ações sociais: campanhas solidárias e arrecadações.
+- Parcerias: busca de benefícios com marcas e empresas relacionadas ao rock e ao motociclismo.
+Objetivo
+Criar mais do que uma loja: um ambiente que valorize a criatividade, a liberdade de expressão e o sentimento de pertencimento.
 - Registrar erros, dificuldades e pontos de melhoria.
 - Compartilhar feedbacks entre os integrantes.
 - Reorganizar as prioridades da próxima sprint.
