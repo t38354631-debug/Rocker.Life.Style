@@ -9,4 +9,4 @@ Depois dos testes, se houver algum erro dar uma descrição sobre ele e, se poss
 -------------------------------------------------------------------------------------------
 EVENTOS CULTURAIS 
 
-Os eventos funcionariam com uma interface chamativa, como elogios a loja através de um locutor, acrescentar produtos que a população e internautas mais compram ou acham interesse de ver. E também com anúncios bem elaborados, como comerciais e panfletos.
+Os eventos funcionariam com uma interface chamativa, como elogios a loja através de um locutor, acrescentar produtos que a população e internautas mais compram ou acham interesse de ver. E também com anúncios bem elaborados, como comerciais e panfletos. Haverá também desfiles de pessoas e motos, e os mais votados ganharam prêmios. Nesse evento terá ações de caridade, para ajudar pessoas necessitadas.
