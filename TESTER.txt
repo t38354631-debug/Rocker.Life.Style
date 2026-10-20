@@ -1,0 +1,12 @@
+TESTER
+
+Para o teste dos scripts, é enviado sobre requisições através do email os códigos para teste e se houver erros dar algumas observações no relatório.
+
+RELATÓRIO 
+
+Depois dos testes, se houver algum erro dar uma descrição sobre ele e, se possível, dar sugestões para a solução do erro, para enviar ao membro da equipe para a correção do erro.
+
+-------------------------------------------------------------------------------------------
+EVENTOS CULTURAIS 
+
+Os eventos funcionariam com uma interface chamativa, como elogios a loja através de um locutor, acrescentar produtos que a população e internautas mais compram ou acham interesse de ver. E também com anúncios bem elaborados, como comerciais e panfletos.
